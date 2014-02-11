@@ -1,0 +1,2 @@
+/usr/bin/ar cr libedge_detect-lib.a  CMakeFiles/edge_detect-lib.dir/edge_detection.cpp.o CMakeFiles/edge_detect-lib.dir/edge_detection_config.cpp.o CMakeFiles/edge_detect-lib.dir/self_organizing_map.cpp.o CMakeFiles/edge_detect-lib.dir/som_trainer.cpp.o CMakeFiles/edge_detect-lib.dir/som_tester.cpp.o
+/usr/bin/ranlib libedge_detect-lib.a

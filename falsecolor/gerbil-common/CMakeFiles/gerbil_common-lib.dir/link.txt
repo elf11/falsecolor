@@ -1,0 +1,2 @@
+/usr/bin/ar cr libgerbil_common-lib.a  CMakeFiles/gerbil_common-lib.dir/multi_img_ext.cpp.o CMakeFiles/gerbil_common-lib.dir/multi_img_io_ext.cpp.o CMakeFiles/gerbil_common-lib.dir/multi_img_tasks.cpp.o CMakeFiles/gerbil_common-lib.dir/multi_img_offloaded.cpp.o CMakeFiles/gerbil_common-lib.dir/background_task.cpp.o CMakeFiles/gerbil_common-lib.dir/background_task_queue.cpp.o CMakeFiles/gerbil_common-lib.dir/moc_background_task.cxx.o
+/usr/bin/ranlib libgerbil_common-lib.a

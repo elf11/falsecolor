@@ -1,0 +1,2 @@
+/usr/bin/ar cr libedge_detect-optional-lib.a  CMakeFiles/edge_detect-optional-lib.dir/optional.cpp.o
+/usr/bin/ranlib libedge_detect-optional-lib.a

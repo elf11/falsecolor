@@ -1,0 +1,2 @@
+/usr/bin/ar cr libsimilarity_measures-lib.a  CMakeFiles/similarity_measures-lib.dir/command_similarity_measure.cpp.o CMakeFiles/similarity_measures-lib.dir/sm_config.cpp.o CMakeFiles/similarity_measures-lib.dir/similarity_measure_core.cpp.o CMakeFiles/similarity_measures-lib.dir/similarity_measure_config.cpp.o
+/usr/bin/ranlib libsimilarity_measures-lib.a

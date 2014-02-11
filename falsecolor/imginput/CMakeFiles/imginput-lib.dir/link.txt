@@ -1,0 +1,2 @@
+/usr/bin/ar cr libimginput-lib.a  CMakeFiles/imginput-lib.dir/imginput.cpp.o CMakeFiles/imginput-lib.dir/imginput_config.cpp.o CMakeFiles/imginput-lib.dir/gdalreader.cpp.o
+/usr/bin/ranlib libimginput-lib.a

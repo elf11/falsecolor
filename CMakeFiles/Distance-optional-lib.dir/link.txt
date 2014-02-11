@@ -1,0 +1,2 @@
+/usr/bin/ar cr libDistance-optional-lib.a  CMakeFiles/Distance-optional-lib.dir/optional.cpp.o
+/usr/bin/ranlib libDistance-optional-lib.a

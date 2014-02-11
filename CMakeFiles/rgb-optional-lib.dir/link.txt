@@ -1,0 +1,2 @@
+/usr/bin/ar cr librgb-optional-lib.a  CMakeFiles/rgb-optional-lib.dir/optional.cpp.o
+/usr/bin/ranlib librgb-optional-lib.a

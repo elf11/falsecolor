@@ -1,0 +1,2 @@
+/usr/bin/ar cr libimginput-optional-lib.a  CMakeFiles/imginput-optional-lib.dir/optional.cpp.o
+/usr/bin/ranlib libimginput-optional-lib.a
